@@ -1,1 +1,1 @@
-# competitive-problem-solving
+# problem-solving-in-competitive-programming
